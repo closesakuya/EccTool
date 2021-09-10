@@ -6,5 +6,5 @@
 
 
 
-![](https://github.com/closesakuya/EccTool/blob/main/res/help_01.png)
+![](https://github.com/closesakuya/EccTool/blob/master/res/help_01.png)
 
