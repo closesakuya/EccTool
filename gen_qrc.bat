@@ -1,0 +1,1 @@
+pyside2-rcc -o imgs.py imgs.qrc

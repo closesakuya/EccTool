@@ -1,0 +1,8 @@
+build
+__pycache__
+dist/
+*.pyd
+.idea
+private_key.py
+*.ecc
+*.enc
